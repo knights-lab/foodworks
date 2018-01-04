@@ -181,3 +181,4 @@ fabric.properties
 sftp-config.json
 
 # Custom entries
+.Rproj.user
